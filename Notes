@@ -1,0 +1,14 @@
+# NoGravity Kernel MOD Changelog 
+# BurnOUT™ MOD Series  
+# v4.4.0
+
+## [!] Notes:
+
+>> Flash At Your Own Risk I'm Not Responsible For Any Kind Of Bugs.
+>> Feel Free To Report Any Bugs/Issues Faced Which Are Part Of Kernel
+>> Report Kernel Dev If It's Source Sided Issue!
+>> Use Of Magisk / KernelSU Is Mandatory Else Flashing Process Will Abort
+>> SE-Linux Locked Currently At Permissive. If Your ROM Can Boot This Mod At Enforcing Then Fine
+>> MOD Restrictions:
+   1. Display Refresh Rate Locked At 60z
+   2. CPU Locked At 2.8Ghz (NON-OC)
