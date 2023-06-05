@@ -1,0 +1,23 @@
+# NoGravity Kernel MOD Changelog 
+# BurnOUT™ MOD Series  
+# v4.4.0
+
+## [!] Changelog:
+
+[1] Implement UnknownCleaner Tool: 
+>> Cleans Unwanted Files Generated From Previously Flashed Kernel.
+[2] Implement New Device Checking System:
+>> Flashes Only For Device PocoF1 | Beryllium
+>> Not For Other Devices Including SDM845
+[3] Root Manager Checker:
+>> Checks User Has KernelSU / Magisk Installed To Get Support Of UnknownModules.
+>> Patched Modules Support For KernelSU Users (If You Face Issues Then Report)
+[4] User Can Choose & Customize Flash:
+>> Added Support Of All In One Files.
+>> User Can Choose While Flashing - Non System EXT (NSE) Or System EXT (SE)
+>> User Can Choose Touch Firmware Version - v9.1.24 (OLD) Or v10.3.7 (NEW
+>> User Can Access UnknownModules For Better Experience
+>> User Can Choose Notifications Customizations Wether They Want To Receive Notifications On Profile Changing Or Not!
+[5] Added New Profiles:
+- Gaming Lite (For Games Like CODM Which Require Less Power)
+- R.O.G™ MODE Re-Implemented
