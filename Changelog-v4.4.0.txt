@@ -2,7 +2,8 @@
 # BurnOUT™ MOD Series  
 # v4.4.0
 
-# [!] Changelog:
+## [!] Changelog:
+
 [1] Implement UnknownCleaner Tool: 
 >> Cleans Unwanted Files Generated From Previously Flashed Kernel.
 [2] Implement New Device Checking System:
@@ -13,11 +14,16 @@
 >> Patched Modules Support For KernelSU Users (If You Face Issues Then Report)
 [4] User Can Choose & Customize Flash:
 >> Added Support Of All In One Files.
->> Use Can Choose While Flashing - Non System EXT (NSE) Or System EXT (SE)
+>> User Can Choose While Flashing - Non System EXT (NSE) Or System EXT (SE)
 >> User Can Choose Touch Firmware Version - v9.1.24 (OLD) Or v10.3.7 (NEW
 >> User Can Access UnknownModules For Better Experience
+>> User Can Choose Notifications Customizations Wether They Want To Receive Notifications On Profile Changing Or Not!
+[5] Added New Profiles:
+- Gaming Lite (For Games Like CODM Which Require Less Power)
+- R.O.G™ MODE Re-Implemented 
 
-# [!] Notes:
+## [!] Notes:
+
 >> Flash At Your Own Risk I'm Not Responsible For Any Kind Of Bugs.
 >> Feel Free To Report Any Bugs/Issues Faced Which Are Part Of Kernel
 >> Report Kernel Dev If It's Source Sided Issue!
@@ -27,10 +33,11 @@
    1. Display Refresh Rate Locked At 60z
    2. CPU Locked At 2.8Ghz (NON-OC)
    
-# [!] UnknownMODULES:
-[1] Unknown Amoled   | V1
-[2] Unknown Tweaks   | V1
-[3] Unknown Spoofer  | V2
+## [!] UnknownMODULES:
+
+[1] Unknown Amoled          | V1
+[2] Unknown Tweaks          | V1
+[3] Unknown Spoofer         | V2
     - Alioth    >   Mi 11X / Redmi K40S / Poco F3
     - Sanders   >   Motorola G (5S) Plus 
     - Apollo    >    Xiaomi Mi 10T 
@@ -41,10 +48,21 @@
     - Battery
     - Balanced 
     - Stock  
-[5] UnknownRamdisk Activator | V1
+[5] UnknownRamdisk Activator  | V1
 [6] UnknownProfiles Activator | V2
     - UnknownProfiles > Based On Genos Profiles
     - UnknownCharge   > Based On Spectrum Profiles
     - UnknownToast
+[7] UnknownTweaker            | V1    
+    - Net Tweaker & Ping Booster 
+    - Touch Tweaks 
+    - Qualcomm Boost Tweaks
+    - Voice Clarity Booster
+    - Remove Calling Time Delay
+    - Disable App Launcher Blur (A12)
+    - Disable V-Sync
+    - SmoothUI Tweaks
+    - Persist Tweaks
+    - Dalvik Tweaks
     
     
