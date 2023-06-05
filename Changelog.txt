@@ -1,5 +1,6 @@
 # NoGravity Kernel MOD Changelog 
 # BurnOUT™ MOD Series  
+# v4.4.0
 
 # [!] Changelog:
 [1] Implement UnknownCleaner Tool: 
@@ -9,24 +10,33 @@
 >> Not For Other Devices Including SDM845
 [3] Root Manager Checker:
 >> Checks User Has KernelSU / Magisk Installed To Get Support Of UnknownModules.
+[4] User Can Choose & Customize Flash:
+>> Added Support Of All In One Files.
+>> Use Can Choose While Flashing - Non System EXT (NSE) Or System EXT (SE)
+>> User Can Choose Touch Firmware Version - v9.1.24 (OLD) Or v10.3.7 (NEW
+>> User Can Access UnknownModules For Better Experience
 
 # [!] Notes:
 >> Flash At Your Own Risk I'm Not Responsible For Any Kind Of Bugs.
 >> Feel Free To Report Any Bugs/Issues Faced Which Are Part Of Kernel
 >> Report Kernel Dev If It's Source Sided Issue!
 >> Use Of Magisk / KernelSU Is Mandatory Else Flashing Process Will Abort
+>> SE-Linux Locked Currently At Permissive. If Your ROM Can Boot This Mod At Enforcing Then Fine
+>> MOD Restrictions:
+   1. Display Refresh Rate Locked At 60z
+   2. CPU Locked At 2.8Ghz (NON-OC)
+   
 # [!] UnknownMODULES:
-- Unknown Amoled   || V1
-- Unknown Tweaks   || V1
-- Unknown Spoofer  || V2
-  > Alioth         | Mi 11X / Redmi K40S / Poco F3
-  > Sanders        | Motorola G (5S) Plus 
-  > Apollo         | Xiaomi Mi 10T 
-  > More To Be Add
-- Unknown Thermals || V1
-  > Oneplus 6 MOD
-  > Nuked
-  > Semi-Nuked
-  > Battery
-  > Balanced 
-  > Stock  
+[1] Unknown Amoled   || V1
+[2] Unknown Tweaks   || V1
+[3] Unknown Spoofer  || V2
+    - Alioth    >   Mi 11X / Redmi K40S / Poco F3
+    - Sanders   >   Motorola G (5S) Plus 
+    - Apollo    >    Xiaomi Mi 10T 
+  [4] Unknown Thermals || V1
+    - Oneplus 6 MOD
+    - Nuked
+    - Semi-Nuked
+    - Battery
+    - Balanced 
+    - Stock  
